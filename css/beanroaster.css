@@ -100,3 +100,14 @@ footer {
     top: 177px;
     z-index: 0;
 }
+#tdroastcolourlabel {
+    width: 80%;
+}
+#tdbuttoncontainer {
+    width: 20%;
+    text-align: left;
+}
+#Comments {
+    width: 622px;
+    text-align: center;
+}
